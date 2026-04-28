@@ -58,20 +58,20 @@ I write code in **Python**, **Java**, and **JavaScript**, and I'm obsessed with 
 
 ## 📊 GitHub Stats (Live)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ekwe7&show_icons=true&hide=issues&count_private=true)[reference:0]
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ekwe7&show_icons=true&hide=issues&count_private=true)
 
 ### Most Used Languages (Live)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekwe7&layout=compact)[reference:1]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekwe7&layout=compact)
 
 ### GitHub Trophies (Live)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ekwe7&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)[reference:2]
+[![trophy](https://github-profile-trophy.vercel.app/?username=ekwe7&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 📈 Contribution Streak (Live)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ekwe7)](https://git.io/streak-stats)[reference:3]
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ekwe7)](https://git.io/streak-stats)
 
 ---
 
