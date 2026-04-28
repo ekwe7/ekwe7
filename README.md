@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Ekwe Emmanuel Augustine
+<div style="background-color: #0d1117; color: #c9d1d9; font-size: 18px; padding: 20px; border-radius: 16px;">
+
+# 👋 I'm Ekwe Emmanuel Augustine
 
 **Full Stack Engineer** — building fast, reliable systems that last.
 
@@ -10,7 +12,7 @@
 
 ## 🧑‍💻 Who I Am
 
-I'm a **Full Stack Engineer** with deep expertise across the entire web stack — from crafting sharp, responsive UIs to designing robust, high‑performance backend services.
+I'm a **Full Stack Engineer** with deep expertise across the entire web stack — from crafting sharp, responsive UIs to designing robust, high‑performance backend services.  
 I write code in **Python**, **Java**, and **JavaScript**, and I'm obsessed with building things the right way.
 
 - 🔴 Currently building: **Car Parking System**
@@ -58,20 +60,19 @@ I write code in **Python**, **Java**, and **JavaScript**, and I'm obsessed with 
 
 ## 📊 GitHub Stats (Live)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ekwe7&show_icons=true&hide=issues&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ekwe7&show_icons=true&hide=issues&count_private=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79ff97" alt="GitHub Stats" />
 
 ### Most Used Languages (Live)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekwe7&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwe7&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" />
 
 ### GitHub Trophies (Live)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ekwe7&theme=flat&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ekwe7&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📈 Contribution Streak (Live)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ekwe7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ekwe7&theme=dark&background=0d1117&border=30363d&stroke=c9d1d9&ring=79ff97&fire=ff8c00&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=79ff97&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
 
 ---
 
@@ -81,9 +82,6 @@ Here are some of my key projects (replace with actual pinned repositories):
 
 - 🚗 **[Car Parking System]** – Real-time monitoring & payment integration (In progress)
 
-*- 🔧 **[Your Project Name]** – Brief description*
-*- 📦 **[Your Project Name]** – Brief description*
-
 ---
 
 > *“Write code that works today, but design it to last tomorrow.”*
@@ -91,3 +89,5 @@ Here are some of my key projects (replace with actual pinned repositories):
 **Let's connect!**  
 📧 ekwea753@gmail.com  
 🌍 Lagos, Nigeria
+
+</div>
