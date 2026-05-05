@@ -26,7 +26,6 @@ I write code in **Python**, **Java**, and **JavaScript**, and I'm obsessed with 
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -84,7 +83,6 @@ Here are some of my key projects (replace with actual pinned repositories):
 
 ---
 
-> *“Write code that works today, but design it to last tomorrow.”*
 
 **Let's connect!**  
 📧 ekwea753@gmail.com  
