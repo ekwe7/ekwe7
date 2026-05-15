@@ -79,7 +79,8 @@ I write code in **Python**, **Java**, and **JavaScript**, and I'm obsessed with 
 
 Here are some of my key projects (replace with actual pinned repositories):
 
-- 🚗 **[Car Parking System]** – Real-time monitoring & payment integration (In progress)
+- 🚗 **[Car Parking System]** – Real-time monitoring & payment integration 
+- **[hospital management system]** - Care Access Platform (In progress)
 
 ---
 
