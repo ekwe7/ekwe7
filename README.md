@@ -15,7 +15,7 @@
 I'm a **Full Stack Engineer** with deep expertise across the entire web stack — from crafting sharp, responsive UIs to designing robust, high‑performance backend services.  
 I write code in **Python**, **Java**, and **JavaScript**, and I'm obsessed with building things the right way.
 
-- 🔴 Currently building: **Car Parking System**
+- 🔴 Currently building: **hospital management system**
 - 🟢 Deepening expertise in: **distributed systems / AI-powered apps / microservices**
 - ⚪ Based in: **Lagos, Nigeria**
 - 📫 Reach me: [ekwea753@gmail.com](mailto:ekwea753@gmail.com)
