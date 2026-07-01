@@ -1,90 +1,96 @@
-<div style="background-color: #0d1117; color: #c9d1d9; font-size: 18px; padding: 20px; border-radius: 16px;">
+<div align="center">
 
-# 👋 I'm Ekwe Emmanuel Augustine
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ekwe%20Emmanuel%20Augustine&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Lagos%2C%20Nigeria&descAlignY=55&descSize=18" width="100%" />
 
-**Full Stack Engineer** — building fast, reliable systems that last.
+<a href="https://www.linkedin.com/in/emmanuel-ekwe-0940b6331/"><img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Ekwe-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ekwe7"><img src="https://img.shields.io/badge/GitHub-ekwe7-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:ekwea753@gmail.com"><img src="https://img.shields.io/badge/Email-ekwea753%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emmanuel%20Ekwe-0077B5?logo=linkedin)](https://www.linkedin.com/in/emmanuel-ekwe-0940b6331/)
-[![GitHub](https://img.shields.io/badge/GitHub-ekwe7-181717?logo=github)](https://github.com/ekwe7)
-[![Email](https://img.shields.io/badge/Email-ekwea753%40gmail.com-EA4335?logo=gmail)](mailto:ekwea753@gmail.com)
+<br/>
 
----
-
-## 🧑‍💻 Who I Am
-
-I'm a **Full Stack Engineer** with deep expertise across the entire web stack — from crafting sharp, responsive UIs to designing robust, high‑performance backend services.  
-I write code in **Python**, **Java**, and **JavaScript**, and I'm obsessed with building things the right way.
-
-- 🔴 Currently building: **hospital management system**
-- 🟢 Deepening expertise in: **distributed systems / AI-powered apps / microservices**
-- ⚪ Based in: **Lagos, Nigeria**
-- 📫 Reach me: [ekwea753@gmail.com](mailto:ekwea753@gmail.com)
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
-### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats (Live)
-
-<img src="https://github-readme-stats.vercel.app/api?username=ekwe7&show_icons=true&hide=issues&count_private=true&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=79ff97" alt="GitHub Stats" />
-
-### Most Used Languages (Live)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwe7&layout=compact&theme=dark&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top Languages" />
-
-### GitHub Trophies (Live)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ekwe7&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-### 📈 Contribution Streak (Live)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ekwe7&theme=dark&background=0d1117&border=30363d&stroke=c9d1d9&ring=79ff97&fire=ff8c00&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=79ff97&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
-
----
-
-## 📌 Pinned Projects
-
-Here are some of my key projects (replace with actual pinned repositories):
-
-- 🚗 **[Car Parking System]** – Real-time monitoring & payment integration 
-- **[hospital management system]** - Care Access Platform (In progress)
-
----
-
-
-**Let's connect!**  
-📧 ekwea753@gmail.com  
-🌍 Lagos, Nigeria
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=79FF97&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Java+%7C+NestJS+%7C+Spring+Boot;React+%7C+Node.js+%7C+PostgreSQL;Building+a+Hospital+Management+System" alt="Typing SVG" />
 
 </div>
+
+<br/>
+
+### `~/whoami`
+
+```bash
+ekwe@dev:~$ cat about.txt
+> Full Stack Engineer building fast, reliable systems that last.
+> Comfortable across the stack — from responsive UIs to
+> high-performance backend services.
+
+ekwe@dev:~$ cat now.txt
+> 🔴 building     hospital management system (Care Access Platform)
+> 🟢 leveling up  distributed systems, microservices, AI-powered apps
+> ⚪ based in     Lagos, Nigeria
+> 📫 reach me     ekwea753@gmail.com
+```
+
+<br/>
+
+### `~/stack`
+
+<div align="center">
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,spring,js&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,sass,html,css&theme=dark" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&theme=dark" />
+
+**DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,terraform,linux&theme=dark" />
+
+</div>
+
+<br/>
+
+### `~/projects`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏥 Hospital Management System</h4>
+      <p>Care Access Platform — patient records, scheduling, and staff workflows. <em>In progress.</em></p>
+      <a href="#"><img src="https://img.shields.io/badge/status-in--progress-2c5364?style=flat-square" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚗 Car Parking System</h4>
+      <p>Real-time slot monitoring with integrated payment processing.</p>
+      <a href="#"><img src="https://img.shields.io/badge/status-shipped-0f6e56?style=flat-square" /></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### `~/stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ekwe7&show_icons=true&hide=issues&count_private=true&theme=dark&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&icon_color=79ff97&border_color=30363d" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekwe7&layout=compact&theme=dark&bg_color=0d1117&title_color=79ff97&text_color=c9d1d9&border_color=30363d" height="165" />
+
+<img src="https://streak-stats.demolab.com?user=ekwe7&theme=dark&background=0d1117&border=30363d&stroke=c9d1d9&ring=79ff97&fire=ff8c00&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=79ff97&sideLabels=c9d1d9&dates=c9d1d9" />
+
+<details>
+<summary>🏆 Trophies</summary>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=ekwe7&theme=darkhub&no-frame=true&margin-w=8" />
+</details>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
