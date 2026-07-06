@@ -141,16 +141,6 @@ Object-oriented simulation of real-world fuel dispensing operations.
 
 ---
 
-# 📌 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ekwe7&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
-
----
-
 # 📫 Let's Connect
 
 <div align="center">
