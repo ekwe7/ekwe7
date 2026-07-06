@@ -72,53 +72,32 @@ I enjoy designing clean architectures, developing secure backend services, and c
 
 # 🚀 Featured Projects
 
-## 🏥 Hospital Management System *(In Progress)*
-
-Modern healthcare platform for managing patients, appointments, medical records, billing, and authentication.
-
-**Tech**
-
+### 🏥 Hospital Management System
 `Spring Boot` `React` `PostgreSQL` `Docker`
 
-🔗 Repository: Coming Soon
+Healthcare platform for patient management, appointments, medical records, and billing.
 
 ---
 
-## 📒 Book Keeping Management System
-
-A bookkeeping application featuring authentication, secure REST APIs, reporting, and complete CRUD operations.
-
-**Tech**
-
+### 📒 Book Keeping Management System
 `Java` `Spring Boot` `React` `PostgreSQL`
 
-🔗 Repository: Coming Soon
+Bookkeeping system with authentication, reporting, and secure REST APIs.
 
 ---
 
-## 🚗 Car Park Management System
-
-A parking management platform supporting parking allocation, payments, and mobile access.
-
-**Tech**
-
+### 🚗 Car Park Management System
 `Spring Boot` `MongoDB` `React Native`
 
-🔗 Repository: Coming Soon
+Parking management platform with real-time parking allocation and payments.
 
 ---
 
-## ⛽ Fuel Dispenser System
-
-Java application that simulates real-world fuel dispensing using Object-Oriented Programming principles.
-
-**Tech**
-
+### ⛽ Fuel Dispenser System
 `Java`
 
-🔗 Repository: Coming Soon
+Object-oriented simulation of real-world fuel dispensing operations.
 
----
 
 # 📊 GitHub Analytics
 
