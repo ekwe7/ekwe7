@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Emmanuel%20Augustine%20Ekwe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Lagos%2C%20Nigeria&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Emmanuel%20Augustine%20Ekwe&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Lagos%2C%20Nigeria&descAlignY=55&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=79FF97&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+NestJS;React+%7C+React+Native+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=79FF97&center=true&vCenter=true&width=700&lines=Software+Engineer;Java+%7C+Spring+Boot+%7C+NestJS;React+%7C+React+Native+%7C+PostgreSQL;Building+Scalable+Backend+Systems;Always+Learning+Something+New" />
 
 <br/>
 
@@ -98,6 +98,7 @@ Parking management platform with real-time parking allocation and payments.
 
 Object-oriented simulation of real-world fuel dispensing operations.
 
+---
 
 # 📊 GitHub Analytics
 
