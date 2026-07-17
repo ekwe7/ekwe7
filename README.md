@@ -24,7 +24,7 @@
 
 # 👋 About Me
 
-I'm **Emmanuel Augustine Ekwe**, a **Full Stack Engineer** passionate about building scalable software that solves real-world problems.
+I'm **Emmanuel Augustine Ekwe**, a **Software Engineer** passionate about building scalable software that solves real-world problems.
 
 I enjoy designing clean architectures, developing secure backend services, and creating responsive user experiences.
 
